@@ -22,18 +22,20 @@
 
 - Clients Table screen:
 
-  ![1661226657656](image/README/1661226657656.png)
+  <img width="913" alt="image" src="https://user-images.githubusercontent.com/44862147/186171368-dfb2625a-4618-4766-878c-983c8da0fe0b.png">
+
 
 - Contacts Table screen:
 
-  ![1661226701522](image/README/1661226701522.png)
+ <img width="916" alt="image" src="https://user-images.githubusercontent.com/44862147/186171972-945fcf61-19da-4d16-9805-e0877a9006dc.png">
+
 
 - Contact Create/Update screen
-
-  ![1661226766935](image/README/1661226766935.png)
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/44862147/186172536-e0856734-9bad-4162-a00f-6193d0213f61.png">
 
 - Client/Contact Linking screen
-- ![1661226846363](image/README/1661226846363.png)
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/44862147/186172766-38cb2a24-c644-4b7b-85d5-01a102f6a153.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
